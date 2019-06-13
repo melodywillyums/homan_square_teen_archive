@@ -1,2 +1,6 @@
-# homan_square_teen_archive
-Teen interns at Homan Square, Chicago build an archive about programs, events and art
+# homan square teen archive
+Teen interns at Homan Square in Chicago build an archive about programs, events and art
+
+Homan Square Teen Archive Live Site Link TBD
+
+Spring 2019	Studio Apprentice
