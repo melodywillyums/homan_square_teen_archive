@@ -1,0 +1,55 @@
+/*
+**********************
+***** STYLESHEET *****
+This is where we can style our HTML. 
+*/
+
+a{
+	text-decoration: none;
+}
+h2{
+	color:#01395E;
+}
+.body{
+	height:100vh;
+	width:100vw;
+	background-image: url("https://cdn.glitch.com/9de03a51-5bac-421b-a934-ecfca6fb9b07%2FdowntownNight_fashionstudio.jpg?1556574782395");
+  
+	overflow-x: hidden;
+	overflow-y: hidden;
+	top:0;
+	left:0;
+}
+.header{
+	width:100%;
+	text-align: center;
+	font-family: sans-serif;
+	color:white;
+	margin-top:20vh;
+}
+.header-art{
+	width:100%;
+	text-align: center;
+	font-family: sans-serif;
+	color:white;
+}
+.buttons{
+	width:100%;
+	text-align: center;
+	margin-bottom: 2vh;
+}
+.btn{
+	border: solid 2px white;
+	border-radius: 5px;
+	background: none;
+	padding:10px;
+	color:white;
+	font-size:15px;
+	margin:2vw;
+	font-weight: 600;
+	transition:linear .2s;
+}
+.btn:hover{
+	background:white;
+	color:#13A399;
+}
